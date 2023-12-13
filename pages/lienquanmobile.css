@@ -1,0 +1,237 @@
+.trangchu{
+    display:flex;
+    justify-content: center;
+    
+}    
+.vanban{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    
+
+}
+.id{
+    height: 50px;
+    width: 200px;
+}
+.n{
+    display: flex;
+    gap: 20px;
+}
+.n1{
+    height: 40px;
+    width: 120px;
+    border-radius: 50px;
+    background-color: white;
+    padding: auto;
+    text-align: right;
+    text-decoration: dashed;
+   
+}
+.n2{
+    height: 40px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: white;
+    text-align: right;
+    text-decoration: dashed;
+}
+.n11{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 90px;
+    top: 6px;
+   
+   
+}
+.n22{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 190px;
+    top: 6px;
+   
+}
+.trangchulink{
+    text-decoration: dashed;
+}
+.khung{
+    width: 1140px;
+    height: 422px;
+    background-color: #e0ebf9;
+    border-radius: 4px;
+    text-align: left;
+    
+   
+    
+}
+.max{
+    font-family: inherit;
+    font-weight: 500;
+}
+.maxx{
+    color: #1abc9c;
+    font-size: 18px;
+
+}
+.row{
+    line-height: 15px;
+    
+}
+.hey{
+    height: 28.5px;
+    position: relative;
+    left: 5px;
+    border: 1.5px solid #888c8b;
+}
+.hey1{
+    width: 120px;
+    height: 25px;
+    color: #888c8b;
+    border: 1.5px solid #888c8b;
+}
+.hey{
+    height: 34px;
+    position: relative;
+    left: 5px;
+    border: 1.5px solid #888c8b;
+}
+.hey1{
+    width: 200px;
+    height: 30.5px;
+    color: #888c8b;
+    border: 1.5px solid #888c8b;
+}
+.fex{
+    justify-content: center;
+    display: flex;
+    position: relative;
+    top: 20px;
+    gap: 13px;
+}
+.hey2{
+    width: 200px;
+    height: 34px;
+    color: black;
+    border: 1.5px solid #888c8b;
+}
+.hey3{
+    width: 200px;
+    height: 34px;
+    color: black;
+    border: 1.5px solid #888c8b;
+}
+.fex2{
+    margin-left: 184px;
+    display: flex;
+    margin-top: 30px;
+    gap: 13px;
+    
+}
+.is{
+    width: 100px;
+    height: 100px;
+}
+.say{
+    width: 262px;
+    height: 420px;
+    border: 1px solid #cccccc;
+    margin-top: 40px;
+}
+.img{
+    width: 259px;
+    height: 180px;
+}
+.ms{
+    position: relative;
+    left: 183px;
+    bottom: 170px;
+    background-color: #a94442;  
+    color: #fff;
+    font-weight: 100;
+    font-size: 15px;
+    border: 1px solid #cccccc;
+    width: 100px;
+}   
+.button{
+    width: 259px;
+    height: 20px;
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+    bottom: 40px;
+    background-color: #8a6969;
+    border: solid #8a6969;
+    color: white;
+}
+.way{
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+    
+}
+.way1{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    
+}
+b{
+    box-sizing: border-box;
+    text-align: inherit;
+}
+.wish{
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+.for{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    right: 11px;
+    position: relative;
+    top: 20px;
+}
+.button2{
+    width: 95px;
+    height: 40px;
+    border: 1px solid red;
+    background-color: white;
+    color: red;
+}
+.button3{
+    width: 95px;
+    height: 40px;
+    border: 1px solid #32c5d2;
+    background-color: #32c5d2;
+    color: white;
+}
+.heyy{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}  
+.wen{
+    clip-path: polygon(100% 0, 100% 100%, 50% 88%, 0% 100%, 0 52%, 0% 0%);
+    width: 40px;
+    height: 50px;
+    background-color: rgb(223, 197, 32);
+    position: relative;
+    bottom: 355px;
+}
+.backtop{
+    width: 50px;
+    height: 50px;
+    color: #32c5d2;
+    position: fixed;
+    bottom: 10px;
+    left: 1450px;
+    
+}
+.button33{
+    color: white;
+    text-decoration: dashed;
+}
+

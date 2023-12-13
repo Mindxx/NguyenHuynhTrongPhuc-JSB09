@@ -1,0 +1,142 @@
+.trangchu{
+    display:flex;
+    justify-content: center;
+    
+}    
+.vanban{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    
+
+}
+.id{
+    height: 50px;
+    width: 200px;
+}
+.n{
+    display: flex;
+    gap: 20px;
+}
+.n1{
+    height: 40px;
+    width: 120px;
+    border-radius: 50px;
+    background-color: white;
+    padding: auto;
+    text-align: right;
+    text-decoration: dashed;
+   
+}
+.n2{
+    height: 40px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: white;
+    text-align: right;
+    text-decoration: dashed;
+}
+.n11{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 90px;
+    top: 6px;
+   
+   
+}
+.n22{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 190px;
+    top: 6px;
+   
+}
+.trangchulink{
+    text-decoration: dashed;
+}
+.a{
+    width: 1156px;
+    height: 435px;
+    margin-top: 20px;
+}
+.b{
+    font-size: 30px;
+    text-align: center;
+    color: #505050;
+}
+.c{
+    width: 80px;
+    height: 3px;
+    background-color: #32c5d2;
+    margin: 0 auto 30px auto;
+}
+.the{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+   
+}
+.the1{
+    text-align: center;
+    border: 1px solid #cccccc;
+    width: 280px;
+    height: 300px;
+    text-align: center;
+    border-radius: 4px;
+}
+.the11{
+    width: 276px;
+    height: 155px;
+}
+.the12{
+    color: #f7b03c;
+    font-weight: bold;
+    margin-top: 10px;
+    
+}
+.the13{
+    top: 5px;
+    position: relative;
+
+}
+.the14{
+   position: relative;
+   top: 10px;
+
+}
+.the15{
+    width: 270px;
+    height: 49px;
+    background-color: white;
+    border: 2px solid #bcbbbb;
+    position: relative;
+    top: 20px;
+}
+.they{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    position: relative;
+    top: 20px;
+}
+.theyr{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    position: relative;
+    top: 40px;
+}
+.backtop{
+    width: 50px;
+    height: 50px;
+    color: #32c5d2;
+    position: fixed;
+    bottom: 10px;
+    left: 1450px;
+    
+}
+
+
+

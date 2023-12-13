@@ -1,0 +1,143 @@
+.trangchu{
+    display:flex;
+    justify-content: center;
+    
+}    
+.vanban{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    
+
+}
+.id{
+    height: 50px;
+    width: 200px;
+}
+.n{
+    display: flex;
+    gap: 20px;
+}
+.n1{
+    height: 40px;
+    width: 120px;
+    border-radius: 50px;
+    background-color: white;
+    padding: auto;
+    text-align: right;
+    text-decoration: dashed;
+   
+}
+.n2{
+    height: 40px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: white;
+    text-align: right;
+    text-decoration: dashed;
+}
+.n11{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 90px;
+    top: 6px;
+   
+   
+}
+.n22{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 190px;
+    top: 6px;
+   
+}
+.noidangnhap{
+    text-align: center;
+    border: 1px solid #cccccc;
+    width: 352px;
+    height: 270px;
+    text-align: center;
+    border-radius: 4px;
+    margin: 0 auto 30px auto;
+    margin-top: 150px;
+    
+}
+.hp1{
+    margin: 0;
+    text-align: center;
+    padding: 0 20px 20px 20px;
+    text-align: center;
+    font-size: 20px;
+    font-weight:bold;
+    color: #5c6873;
+    font-family: "Roboto Condensed", sans-serif;
+    margin-top: 20px
+}
+.hp2{
+    width: 325px;
+    height: 34px;
+    font-size: 14px;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+.hp21{
+    width: 25px;
+    height: 25px;
+    position: relative;
+    bottom: 113px;
+    left: 150px;
+}
+.hp3{
+    width: 325px;
+    height: 34px;
+    font-size: 14px;
+    border-radius: 4px;
+    bottom: 20px;
+    position: relative;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+}
+.hp31{
+    width: 25px;
+    height: 25px;
+    position: relative;
+    bottom: 68px;
+    left: 120px;
+    z-index: 10;
+}   
+
+
+
+
+
+.tonghop{
+    position: relative;
+    bottom: 10px;
+}
+.trangchulink{
+    text-decoration: dashed;
+}
+.way{
+    height: 30px;
+    width: 300px;
+}
+.way2{
+    height: 30px;
+    width: 300px;
+    margin-top: 10px;
+}
+.way3{
+    color: #ffffff!important;
+    background: red!important;
+    border-color: red!important;
+    border: solid red;
+    width: 305px;
+    height: 34px;
+    border-radius: 4px;
+    font-size: 17px;
+    position: relative;
+    top: 10px;
+}
